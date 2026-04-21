@@ -14,6 +14,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-Postgres%20%2B%20Realtime-3ECF8E?logo=supabase&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-4.x-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img alt="DeepWiki" src="https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2FParkeando-Edicion-Universitaria%2FParkeando" />
 </p>
 
 <p align="center">
