@@ -318,6 +318,8 @@ Coleccion incluida en el repo para UI del juego y del README.
   <img src="public/panama-icons/pollera.png" width="56" alt="pollera" />
 </p>
 
+Creditos: https://www.flaticon.es/packs/panama-3
+
 Adicionalmente:
 
 - `public/fonts/` contiene fuentes personalizadas.
